@@ -33,14 +33,45 @@ On the **RESOURCES** page of your admin account panel, you will find an empty gr
 
 ![Resources Page](_media/partnerPlatform/Resources-All.png)
 
-You can use the ![Excel Spreadsheet provided](_media/partnerPlatform/SPRYTE-Developer-Roster-Bulk-Import-Quick-Sheet-v01.xlsx) to gather information from your team. Export it as a .csv, and copy the text into the bulk upload modal popup.
+You can use the [Excel Spreadsheet provided](https://drive.google.com/file/d/1oU4f_E3H8pUriaM2rMU7xF5pIZwYqOrF/view?usp=sharing) to gather information from your team. Export it as a .csv, and copy the text into the bulk upload modal popup.
 
-In case you have erroneous keys, the upload tool will inform you before saving. Ensure all rows are correct, and submit. Once you have successfully imported your developer roster, they will be displayed in the Resources Grid.
+In case you have erroneous keys, the upload tool will inform you before saving. Ensure all rows are correct, and submit. Once you have successfully imported your developer roster, they will be displayed in the Resources Grid. 
+
+We recommend you bulk-upload a roster of 10-20 developers to start with. 
 
 ### Using the Resources Grid
 
-You can select a developer from the grid, and their information will be displayed below. You can also add individual developers, remove or edit them. 
+You can select a developer from the grid, and their information will be displayed below. You can also double-click the developer to edit their information. You can also add individual developers, or remove them. 
 
+> **Developers you enter into the Spryte Platform are automatically covered by our non-compete agreement, which means they cannot be hired/contracted without your approval by either Spryte or our Clients.**
+
+#### Fields in the Resource grid: 
+1. **Internal Id**: An internal code (your internal system code) you can use to track resources across Spryte and your own system.   
+2. **First Name**
+3. **Last Name**: If you do not wish to share developer full names, you may use a pseudonym or a single letter for their last name.
+4. **Position**: Currently Spryte positions can be one of 
+    - Architect
+    - Jr. Developer
+    - Mid. Developer
+    - Sr. Developer
+    - Designer
+    - UI/UX
+5. **Status**: An **Active** developer can be booked, an **Inactive** developer cannot be booked. We recommend you add your entire developer roster, and use the status toggle for developers you would like to book in the next few months.
+6. **Rating**: A float rating (0.00 0 4.00) you can use to indicate your developer's standing within your team. This is YOUR evaluation of your developer's skill. Spryte rates your developers taking into consideration many inputs. Setting all your developers to the maximum has a negative influence on how we use it towards the overall rating. 
+7. **Sprint Rate**: The 2-week 80h rate we use for subcontracting all developers. All Spryte contracts are 2-weeks and 80h.  
+8. **Location**: The full text name of your developer's location. We recommend you use the city name. (i.e. New York, Bangalore, Kiev...)
+9. **Latitude**: The actual lat & long of where your developer works, use [google maps to determine your actual geo-location.](https://support.google.com/maps/answer/18539?co=GENIE.Platform%3DAndroid&hl=en) We use this to match developers in real time for clients who need Local, Same-time-zone, or Global resources.   
+10. **Longitude**
+11. **Access Code**: This random auto-generated code can be changed for security. It allows your developers access to their own profile page. Use it to speed up onboarding and improve accuracy by making your developers add their own stack, domain & project experience. It should take them no more than 20 minutes for a very detailed profile.
+12. **Developer ID**: This is your developer's unique ID within the Spryte platform. It is permanent. 
+
+![Editing a developer's information](_media/partnerPlatform/Editing-Developer.png)
+
+### Exporting your resources grid and Dev Sign-In
+
+Instead of adding information for all your developers, you can send them their ID and Access Code. They can use the **Developer Sign-In** to edit their own profile. While the **Developer ID** is unique and persistent, you can change their access code at any time. Change their access code if you wish to prevent unauthorized editing. 
+
+![Dev ID & Access Code](_media/partnerPlatform/DeveloperID-blurred.png)
 
 ## Editing your Developer Profile
 
