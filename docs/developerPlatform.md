@@ -16,3 +16,7 @@ The home page of the Developer platform is a basic timesheet feature, which allo
 Ask your employer how to count breaks. While your Spryte's timesheets are a record of your daily work hours, they are not being used for billing. This means overtime hours clocked on the app are not used for billing. Please ensure you are working according to your contracted terms.  There are certain scenarios to consider depending on your local labor laws, please ask your employer. 
 
 ![Running Timer](_media/developerPlatform/Home-Logged-In.png)             ![Paused Timer](_media/developerPlatform/Home-Paused.png) 
+
+## Project Management Reporting
+
+Project Manager / Scrum Masters are required to report on their project status daily. Details are available on the PM Sprint Reporting Page.
