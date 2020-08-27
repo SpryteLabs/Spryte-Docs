@@ -12,7 +12,3 @@ Spryte's highest goal is to ***Increase Project Success*** for our Clients! This
 - Improving transparency!
 
 Any ideas on how to achieve our goals please submit to **stephane@sprytelab.com** with the title: #idea
-
-## Philosophy
-
-## 
