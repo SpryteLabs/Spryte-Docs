@@ -31,7 +31,7 @@ As an account manager, you have multiple options for adding information about yo
 
 On the **RESOURCES** page of your admin account panel, you will find an empty grid, with a blue **BULK UPLOAD** button. 
 
-![Resources Page](_media/partnerPlatform/Resources-All.png)
+![Resources Page](_media/partnerPlatform/Resources-All-v1.png)
 
 You can use the [Excel Spreadsheet provided](https://drive.google.com/file/d/1oU4f_E3H8pUriaM2rMU7xF5pIZwYqOrF/view?usp=sharing) to gather information from your team. Export it as a .csv, and copy the text into the bulk upload modal popup.
 
@@ -86,7 +86,7 @@ Instead of adding information for all your developers, you can send them their I
 ### Access
 Each developer on a SPRYTE PARTNER roster can add/modify information on their profile at will. Your employer must provide you with your **Developer ID** as well as your **Access Code**. While your Developer ID is unique and persistent, your access code may be changed at will by your account manager. If you have difficulties logging-in, ask your account manager for the latest Access Code.
 
-![Developer Login](_media/partnerPlatform/Developer-Login.png)
+![Developer Login](_media/partnerPlatform/Developer-Login-v1.png)
 
 ###  Editing your personal profile details
 
