@@ -6,7 +6,7 @@ you can become a Spryte Partner by registering on the platform.
 ## Benefits
 
 There are many benefits to joining the Spryte platform as a development partner. Think of us as your window into a whole new world of clients and projects.
-Partners are instantly accessible by all spryte clients, who can search for development teams in real time. Pricing is transparent to the user, but your information is never revealed.  
+Partners are instantly accessible by all spryte clients, who can search for development teams in real time. Pricing is transparent to the user, but your information is not revealed until after Clients have made a payment.  
 
 ## Use cases
 
@@ -16,11 +16,11 @@ Partners are instantly accessible by all spryte clients, who can search for deve
 
 ## Registration
 
-1. To register, log on to [The Spryte Partner Platform](https://spryte-p.web.app/). We will ask you for basic information about your business. Make sure the person registering your account has an appropriate role within your organisation to handle rates & contract decisions.
+1. To register, log on to [The Spryte Partner Platform](https://www.sprytelabs.com/partner). We will ask you for basic information about your business. Make sure the person registering your account has an appropriate role within your organisation to handle rates & contract decisions.
 
 2. You can enter your developer's information one by one from the **Resources** page in the **Developer Roster** grid. Make sure you hit ***UPDATE*** after adding new rows or before leaving the page. 
 
-3. A unique ACCESS CODE is generated for each developer. Because adding in all the required information such as stack, domain and project experience can take long time, you can provide each developer in your company with their **access code** and **unique id**. Using the **Developer Login** screen, they can gain access to their own unique profile, and add the information which matches their resume (CV) at their leisure.   
+3. A unique ACCESS CODE is generated for each developer. Because adding in all the required information such as stack, domain and project experience can take long time, you can provide each developer in your company with their **access code** and **unique id**. Using the **Developer Login** screen, they can gain access to their own unique profile, and add the information which matches their resume (CV) at their leisure. Individual developer pages have restricted access, they can add their own stacks, domains, project experience and personal information, but have no access to view or edit rates and any financial information.  
 
 
 ## Onboarding your developer data
@@ -37,7 +37,15 @@ You can use the [Excel Spreadsheet provided](https://drive.google.com/file/d/1oU
 
 In case you have erroneous keys, the upload tool will inform you before saving. Ensure all rows are correct, and submit. Once you have successfully imported your developer roster, they will be displayed in the Resources Grid. 
 
-We recommend you bulk-upload a roster of 10-20 developers to start with. 
+We recommend you bulk-upload a roster of 50-100 developers to start with, in groups of 20-30.     
+
+### Resume Upload
+
+On the **RESOURCES** page of your admin account panel, you will find an empty grid, and to the top right of the grid a a blue **RESUME UPLOAD** button.
+You can select up to 20 CVs in PDF format and they will be scraped for relevant information. **Be aware that it takes approximatly 20s per resume. If any errors occur you will be notified.**  The AI is still learning, so you can review the information for each scraped resume and choose "**IMPORT**" to keep what has been tagged, or "**EXCLUDE**" if the information is incorrect. (For example, random Stack names like *Section* or *Lateral* may be found in the body text of the CV which don't actually apply to this developer.) Fill out all the required info for each dev and click submit when you are done with ALL the CVs.
+
+If you wish to distribute this work to individual developers on your staff, they also have the ability to upload their resume on their unique developer page. (see Registration / Point #3)
+
 
 ### Using the Resources Grid
 
@@ -109,3 +117,12 @@ Please add your planned vacations for the next year. You can modify this at any 
 #### Availability
 
 Any projects booked through SPRYTE will be automatically displayed here. You may also add any other projects you are working on which may impact your availability towards bookings on the Spryte platform. For example, if you have an ongoing project and do not wish to be booked until it finishes, add a row describing your current project, and specifying the end date. The spryte platform will automatically try to book projects to keep you active.
+
+### Profile Completion Score
+
+In order for your developers to be considered on the platform, they must have a 100% Profile Completion Score. Each developer must have:
+   1. 8 Stacks Minimum
+   2. 4 Project Types
+   3. 1 Domain 
+
+   Developers who do not meet this criteria are probably too junior to be included. If your developers meet criteria we don't have on the platform currently, (stacks, domains or project types) please submit new types for review by using the "Request new Type" button. 
