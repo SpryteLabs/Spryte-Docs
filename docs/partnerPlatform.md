@@ -102,13 +102,19 @@ Your tech stacks are specific languages, libraries, tools, and systems. The list
 
 NOTE: Spryte takes this information very seriously. We expect you to be truthful. If our audits determine the information you provided is innacurate and you have significantly overestimated your capabilities, you may lose the ability to be booked on the platform until the problem is rectified. 
 
+![Stacks Page](_media/partnerPlatform/Developer-Stacks.png)
+
 #### Domain Knowledge
 
 Clients are interested in your technical abilities, but your ability to speak their language, and understand their problems is key to project success. As such domain knowledge, which is prior experience working in a specific market, is extremely useful for our clients. For example, if you have previously worked on a payment integration project which lasted 6 months for a finance firm, mark your domain knowledge as Finance, 6 months, 1 project, Skill 1-4. 
 
+![Domains Page](_media/partnerPlatform/Developer-Domain.png)
+
 #### Project Types
 
 Clients often look for developers who have already proven themselves on a particular project type. Perhaps you have substantial experience using APIs (Google, Facebook, Stripe, Twitter...), and as such you will be faster in implementing this again for a new client. Mark down any experience you have for any of the project categories we are currently tracking.
+
+![Projects Page](_media/partnerPlatform/Developer-ProjectExperience.png)
 
 #### Vacations
 

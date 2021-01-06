@@ -12,6 +12,8 @@ Under the hood, and in order to make this happen, we compute trillions of combin
 - Project Experience
 - Team Size
 - Geolocation
+- Security Level
+- Project Start Date
 
 We provide real-time data based confirmed availability, much like modern hotel/airline GDS's. 
 
