@@ -86,7 +86,7 @@ Instead of adding information for all your developers, you can send them their I
 ### Access
 Each developer on a SPRYTE PARTNER roster can add/modify information on their profile at will. Your employer must provide you with your **Developer ID** as well as your **Access Code**. While your Developer ID is unique and persistent, your access code may be changed at will by your account manager. If you have difficulties logging-in, ask your account manager for the latest Access Code.
 
-![Developer Login](_media/partnerPlatform/Developer-Login-v1.png)
+![Developer Login](_media/partnerPlatform/Developer-Login-v2.png)
 
 ###  Editing your personal profile details
 
