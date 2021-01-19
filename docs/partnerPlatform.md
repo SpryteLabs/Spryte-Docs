@@ -16,7 +16,7 @@ Partners are instantly accessible by all spryte clients, who can search for deve
 
 ## Registration
 
-1. To register, log on to [The Spryte Partner Platform](https://www.sprytelabs.com/partner). We will ask you for basic information about your business. Make sure the person registering your account has an appropriate role within your organisation to handle rates & contract decisions.
+1. To register, log on to [The Spryte Partner Platform](https://www.sprytelabs.com/partners). We will ask you for basic information about your business. Make sure the person registering your account has an appropriate role within your organisation to handle rates & contract decisions.
 
 2. You can enter your developer's information one by one from the **Resources** page in the **Developer Roster** grid. Make sure you hit ***UPDATE*** after adding new rows or before leaving the page. 
 
