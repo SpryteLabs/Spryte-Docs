@@ -13,5 +13,5 @@
 > &#8595; See documentation below, or
 
 
-[Sign up as Partner](https://spryte-partner.web.app/)
+[Sign up as Partner](https://www.sprytelabs.com/partners/)
 [Download the app](https://www.sprytelabs.com/request-access)
