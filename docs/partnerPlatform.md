@@ -1,12 +1,12 @@
 # The Spryte Partner Platform
 
-The Partner Platform is meant for Technology vendors and agencies. If you currently hire and manage developers to create custom technology for your clients,
-you can become a Spryte Partner by registering on the platform.
+The Partner Platform is meant for Technology vendors and Marketing Agencies. If you currently hire and manage developers to create custom technology for your clients,
+you can become a Spryte Partner by registering on the platform. If you are a Marketing Agency and offer marketing services (which may or may not include development work), you ca also use the platform to market your services.
 
 ## Benefits
 
 There are many benefits to joining the Spryte platform as a development partner. Think of us as your window into a whole new world of clients and projects.
-Partners are instantly accessible by all spryte clients, who can search for development teams in real time. Pricing is transparent to the user, but your information is not revealed until after Clients have made a payment.  
+Partners are instantly accessible by all spryte clients, who can search for development teams in real time. Pricing is transparent to the user, but your information is not revealed until after Clients have made a payment.  As a registered partner, you can also track your referral lead generation efforts and due commissions.
 
 ## Use cases
 
@@ -16,14 +16,18 @@ Partners are instantly accessible by all spryte clients, who can search for deve
 
 ## Registration
 
-1. To register, log on to [The Spryte Partner Platform](https://www.sprytelabs.com/partners). We will ask you for basic information about your business. Make sure the person registering your account has an appropriate role within your organisation to handle rates & contract decisions.
+1. To register, turn to [The Home Page of the Spryte Website](https://www.sprytelabs.com), and fill in the "Technical Partner Registration" form.
+We will review your information, and email you access credentials. Make sure the person registering your account has an appropriate role within your organisation to handle rates & contract decisions.
 
 2. You can enter your developer's information one by one from the **Resources** page in the **Developer Roster** grid. Make sure you hit ***UPDATE*** after adding new rows or before leaving the page. 
 
 3. A unique ACCESS CODE is generated for each developer. Because adding in all the required information such as stack, domain and project experience can take long time, you can provide each developer in your company with their **access code** and **unique id**. Using the **Developer Login** screen, they can gain access to their own unique profile, and add the information which matches their resume (CV) at their leisure. Individual developer pages have restricted access, they can add their own stacks, domains, project experience and personal information, but have no access to view or edit rates and any financial information.  
 
+## Onboarding your Marketing Agency
 
-## Onboarding your developer data
+The process for Marketing Agencies is slightly different than for Technical Partners. Of upmost importance are CASE STUDIES, which you can upload on the Documents Page. Depending on your billing situation, (billing by retainer) you may not need to add resources. If you wish to make onboarding swift, we recommend you add a single resource, and mark all your agency capabilities under the "Projects" section of that developer. 
+
+## Onboarding your developer data as a Technical Partner
 
 As an account manager, you have multiple options for adding information about your Developer Roster. You can enter all their information one-by-one, but to get started quickly we recommend using the **bulk-import** function. 
 
