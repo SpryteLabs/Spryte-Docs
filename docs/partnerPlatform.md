@@ -27,6 +27,18 @@ We will review your information, and email you access credentials. Make sure the
 
 The process for Marketing Agencies is slightly different than for Technical Partners. Of upmost importance are CASE STUDIES, which you can upload on the Documents Page. Depending on your billing situation, (billing by retainer) you may not need to add resources. If you wish to make onboarding swift, we recommend you add a single resource, and mark all your agency capabilities under the "Projects" section of that developer. 
 
+## Adding a Case Study
+
+It's easy to add a structured case study. By structured we mean that is conforms to a standard which can be used to display your case study to more clients, thereby leading more clients to you. Head over to the **BRANDING** screen, and click on the **ADD A CASE STUDY** button under the **Structured Case Study** section. 
+
+![Structured Case Study](_media/partnerPlatform/Spryte-Partner-Structured-Case-Study-001.jpeg)
+
+Case studies have a default status of **DRAFT**. When you are happy with the information, images and structured tags (Stacks, Industry Domains, Project Types) of your case study, mark it as **READY-TO-SUBMIT** and a Spryte Account manager will review it for publication. Once they mark it as **FEATURED**, it will be displayed on your public company profile.
+
+![Structured Case Study](_media/partnerPlatform/Spryte-Partner-Structured-Case-Study-002.jpeg)
+
+
+
 ## Onboarding your developer data as a Technical Partner
 
 As an account manager, you have multiple options for adding information about your Developer Roster. You can enter all their information one-by-one, but to get started quickly we recommend using the **bulk-import** function. 
@@ -83,6 +95,8 @@ Instead of adding information for all your developers, you can send them their I
 
 ![Dev ID & Access Code](_media/partnerPlatform/DeveloperID-blurred.png)
 
+----------------------------
+
 ## Editing your Developer Profile
 
 ### Access
@@ -134,3 +148,76 @@ In order for your developers to be considered on the platform, they must have a 
    3. 1 Domain 
 
    Developers who do not meet this criteria are probably too junior to be included. If your developers meet criteria we don't have on the platform currently, (stacks, domains or project types) please submit new types for review by using the "Request new Type" button. 
+
+
+----------------------------
+
+# Markets
+
+Markets allow clients to find your pricing and teams, without having to specify each individual resource and their availability on the resources panel. You should be able to define a dozen markets your company is great at.
+
+When you initially load the markets page, you'll we first ask you to define your applicable positions & experience.
+
+![Initial Screen](_media/partnerPlatform/Spryte-Partner-Markets-002.jpeg)
+
+#### Step 1: Define your Applicable Positions & Experience
+
+Head over to the **Accounts** screen, where you'll find the **Generic Service Settings**. 
+
+![Generic Service Settings](_media/partnerPlatform/Spryte-Partner-Markets-003.jpeg)
+
+Click on the **Edit** button for each position you would like to enable and add pricing for. This is dependent on how you setup your rate cards. Click the CheckBox to enable the position, then set the correct amount of **Experience** and **Projects** for each. Finally, click Save. 
+
+The Skill Trust Score is set by Spryte, depending on our experience working with you.
+
+![Generic Service Settings](_media/partnerPlatform/Spryte-Partner-Markets-004.jpeg)
+
+#### Step 2: Define a Rate Card
+
+Rate cards are prices, defined for each type of developer you have. There are a few ways to setup rate cards depending on how your company operates. Back on the **Markets** screen, now that you've added your generic service settings, you'll see you now have 3 sections: Rate Cards, Your Markets, and Popular Markets.
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-005.jpeg)
+
+Click on the **ADD A RATE CARD** button, and you'll be able to define a new rate card.
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-006-b.jpeg)
+
+Add a team location, and click on the **MAP** button. Spryte uses the google map api to find the unique geolocation of that address. If your team is in Bangalore, type the city name, and it will be mapped. You may add multiple locations, but we recommend keeping it down to 5 locations maximum per rate card.
+
+You must agree to the terms in order to activate the rate card, which you must do by changing the **STATUS** to **ACTIVE**, before saving. You may save an inactive rate card for later use, but it will not be selectable in the Markets tab.
+
+Congratulations! You've just added your first Rate Card.
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-007.jpeg)
+
+#### Step 3: Add a Market
+
+Markets are combinations of Stacks, Industry Domains and Project Types. If your company is good at creating Custom Websites for the Marketing Industry, using Wordpress, then type in and select each one in turn ("Custom Website", "Marketing" & "Wordpress").
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-008.jpeg)  
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-009.jpeg)
+
+Then click on **ADD CUSTOM PRICING**. You'll be taken to that market screen, where you can apply rate cards.
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-010.jpeg)
+
+Click on the blue **APPLY PRICING CARD** button, and select a rate card. Only Active Rate Cards are shown on this screen.
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-011.jpeg)
+
+Once you apply a rate card, Spryte computes pricing and teams for all possible combinations of:
+  1. Teamsizes 1-8
+  2. Locations
+  3. Positions
+  4. Combinations of all the search criteria (stacks, industry domains & project types)
+
+The Variants number shown is the number of possible team combinations for which we can show our clients your pricing. It takes a few seconds to compute.
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-012.jpeg)
+
+Click the **GO BACK** button on the top left of the screen to head back to the **Markets** screen. Congratulations, you've added your first market, and clients can now find your pricing on Sprytelabs.com!
+
+![Rate Cards](_media/partnerPlatform/Spryte-Partner-Markets-013.jpeg)
+
+The **Combinations** number is the number of pricing pages clients can find your pricing on.
