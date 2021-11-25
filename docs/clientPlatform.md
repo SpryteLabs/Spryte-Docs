@@ -74,19 +74,47 @@ Our matching algorithm returns teams of 1-8 developers, for as many regions arou
 
 ## A Team Price Card
 
- ![Team Price Card](_media/clientPlatform/price card.jpeg)    
+ ![Team Price Card](_media/clientPlatform/price-card.jpeg)    
 
 Price cards reveal ***we hope*** all the information you need to select a team quickly. 
 
+ ![Team Price Card](_media/clientPlatform/price-card-2.jpeg)   
+ ![Team Price Card](_media/clientPlatform/price-card-3-finance-java.jpeg) 
+ ![Team Price Card](_media/clientPlatform/price-card-4-custom-website.jpeg)
+
 
 ## Requirement Lists
-TBD
+
+Once you've registered on Sprytelabs.com, you can add and maintain requirement lists. Requirement lists allow you to compare multiple teams, review the resources proposed by our Partners, and select a team for your next project. Each requirement list has some deadlines, depending on your account type with Spryte. 
 
 ### Client Account Types & Limits
-TBD
+
+#### A. BRONZE Account Type (New Client)
+New clients with Spryte can have a single open requirement list, with only one Team Under Consideration (TUC).
+
+#### B. SILVER Account Type (Qualified Client)
+Qualified clients with Spryte can have three open requirement lists, with up to three Teams Under Consideration (TUC) in each list.
+
+#### C. GOLD Account Type (Power Users)
+Qualified clients with Spryte can have up to 20 open requirement lists, with up to four Teams Under Consideration (TUC) in each list.
 
 ### Process & Deadlines
-TBD
+Requirements follow a basic 3-step process. 
+
+#### Step 1: Confirm Requirements
+First you confirm your project expectations (expected start date range, price range, engagement time and type). Please take into account that once you confirm, real people in our Partner companies around the world will take time and resources to propose their best resources for your project. Please be mindful of their time by only confirming if you have a real intent to buy.
+
+#### Step 2: Review and Confirm Resources
+Once you've confirmed, our Spryte Partners can respond and propose their available resources. You can:
+
+  1. review resource profiles (resumes)
+  2. tag resources to manage your review process
+  3. add notes and comments
+  4. Confirm or Discard each resource
+
+#### Step 3: Book
+Once you've confirmed the resources you wish to hire/engage, Step 3 allows you to manage payments, subscriptions and payment plans.
+
 
 ### Payments
 TBD
