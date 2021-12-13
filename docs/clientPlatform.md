@@ -25,6 +25,23 @@ We highly recommend you take the 1min tour of the Spryte Results page...it shoul
 
 ![Tour](_media/clientPlatform/tour.jpeg)
 
+#### Client Account Types & Limits
+
+##### Account Registration
+In order to use Sprytelabs.com, you'll find it best to register an account. Your account type will be Bronze by default. Speak to your Account Manager to upgrade your account.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656279154?h=6a4dabc900&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Registration-v1.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+##### A. **BRONZE** Account Type (New Client)
+New clients with Spryte can have a single open requirement list, with only one Team Under Consideration (TUC).
+
+##### B. **SILVER** Account Type (Qualified Client)
+Qualified clients with Spryte can have three open requirement lists, with up to three Teams Under Consideration (TUC) in each list.
+
+##### C. **GOLD** Account Type (Power Users)
+Qualified clients with Spryte can have up to 20 open requirement lists, with up to four Teams Under Consideration (TUC) in each list.
+
 
 ## Searching For Teams
 
@@ -87,16 +104,15 @@ Price cards reveal ***we hope*** all the information you need to select a team q
 
 Once you've registered on Sprytelabs.com, you can add and maintain requirement lists. Requirement lists allow you to compare multiple teams, review the resources proposed by our Partners, and select a team for your next project. Each requirement list has some deadlines, depending on your account type with Spryte. 
 
-### Client Account Types & Limits
+### How-to Guides
 
-#### A. BRONZE Account Type (New Client)
-New clients with Spryte can have a single open requirement list, with only one Team Under Consideration (TUC).
+1. Basic Usage
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656300120?h=bf02f83607&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Creating a basic Requirement List-01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-#### B. SILVER Account Type (Qualified Client)
-Qualified clients with Spryte can have three open requirement lists, with up to three Teams Under Consideration (TUC) in each list.
 
-#### C. GOLD Account Type (Power Users)
-Qualified clients with Spryte can have up to 20 open requirement lists, with up to four Teams Under Consideration (TUC) in each list.
+2. Advanced Usage
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656300667?h=6ce132283c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Advanced-Requirement-Lists-01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 ### Process & Deadlines
 Requirements follow a basic 3-step process. 
