@@ -6,3 +6,4 @@
     * [Markets](partnerPlatform.md)
 * [Client Platform](clientPlatform.md)
 * [Developer Platform](developerPlatform.md)
+* [User Manual](userManual.md)
