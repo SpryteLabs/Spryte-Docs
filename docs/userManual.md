@@ -1,6 +1,11 @@
 # The Spryte User Manual
 
-blah blah blah...
+## Abstract
+### Gamification
+
+<p style="align-text: justify">&emsp;&emsp;Gamification is the incorporation of mechanics, style, mindset, and/or game design techniques to engage people in solving a problem and also efficiently promote behavior change. Gamification aims to improve user engagement, motivation, and performance when performing a specific task. Gamification has some similarities with games, but they are not the same. As the term implies, gamification is not about creating a game, but about transferring some positive characteristics of a game to a non-game context. These positive features of a game are often roughly described as "fun" and have the effect of engaging players in the activity.</p> 
+<p style="align-text: justify">&emsp;&emsp;Some of the game elements found in gamification apps are points, badges, levels, leaderboards, challenges, rewards, etc. Other examples of game elements include avatars, teams, narratives, treasures, and ranks.</p>
+<p style="align-text: justify">&emsp;&emsp;Game elements are relatively easy to recognize, probably because all of us have played games before. Points generally indicate how much time and effort a player has invested or the level of achievement reached. While points represent a player’s state since the beginning of a game, badges are used to signify the successful completion of a given task. Levels are a kind of stage in which a player develops skills and powers until he can unlock a new level to advance. Levels often serve as a reward system to encourage players to continue the game. Leaderboards list players by their score or achievements to create an environment for competition. According to Gamification Wiki, these game mechanisms can be divided into three types: Behavioral Mechanisms, Feedback Mechanisms, and Progress Mechanisms.</p>
 
 1. [ ] one
 2. [ ] two
