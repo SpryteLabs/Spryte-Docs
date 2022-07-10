@@ -24,7 +24,9 @@ While navigating through the website, it’s expected that you:
 6. Buy and Sell technology products and services;
 7. Build a strong network.
 
-
-
-
+## Users Type
+<p style="align-text: justify">&emsp;Richard Bartle is a British writer, teacher and game researcher who defined in his research on virtual games that there are four types of player profiles. They are Achievers, Explorers, Killers, and Socializers. Achievers aim to stand out from other players by trying to earn points and level up. The Explorers are the most curious and try to enter and explore every part of the game. Killers are extremely competitive and want to win at any cost. In contrast to these types of players, there are the Socializers, who are interested in the game too but are more interested in enjoying the company of others.</p> 
+<p style="align-text: justify">&emsp;If you are wondering which gamer type you are, do not worry, because all people have a percentage of all four gamer types.</p>
+<p style="align-text: justify">&emsp;In this way, Spryte Labs has decided to divide its users according to The Bartle player type model and their activities within the platform.</p>
+  
 ## First steps
