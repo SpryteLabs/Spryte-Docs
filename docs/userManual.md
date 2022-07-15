@@ -33,3 +33,12 @@ While navigating through the website, it’s expected that you:
 <p style="align-text: justify">&emsp;Spryte Labs helps you not only develop these skills, but also connect with other users on the site, which Bartle Player Type says is an important measure for socializers. Here you have the opportunity to make connections with other users, companies and technologies in a variety of ways. By making connections, you have the chance to meet new people, build a network, and learn about new technologies in a new and innovative way. To facilitate access to these connections, the website provides you with a conversation widget that can be accessed from any page, allowing quick and direct access. </p>
 <p style="align-text: justify">&emsp;To this end, users can deepen their personal relationships with other Spryte Labs users through social chats. But these are not ordinary chats. Conversational chats are group chats to which new members can be added at any time. This is a new way for sellers to connect with their customers and improve the connection with these potential buyers. Also, developers who are early in their careers have an easier time talking to more experienced people, which increases their chances of landing their first job through networking. In addition to these group conversations, you can talk directly to a company registered on the platform. </p>
 <p style="align-text: justify">&emsp;Another feature in this section of Spryte Labs is technology tracking, where you receive personalized notifications about research, projects or companies using the technology. You can also select the industries sectors you are interested in and then receive the most relevant information on that topic. In addition, there is an option to track project types, so you can easily identify developers you want to buy from, or developers working on a project you also want to participate in. </p>
+
+=======
+Spryte Labs is a platform designed to help you connect and interact with Technology professionals around the world. We've designed connections and chats with certain aims:
+1. allow tech professionals to discover and meet other tech professionals
+2. further their careers by expanding their technical & managerial network
+3. help others in the technology space, become a mentor
+4. ...
+
+ 
