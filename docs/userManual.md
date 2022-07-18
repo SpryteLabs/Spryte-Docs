@@ -21,7 +21,16 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
 3. Help others in the technology space, become a mentor;
 4. Connect salespeople with customers;
 5. Receive notifications about your favorite technologies and industry sectors;
-6. 
+
+## Referrals
+You can refer Spryte Labs to someone who is interested in our service.
+
+ 1. New Contacts must be new and unknown to us, with no existing Referrer;
+ 2. A referral is valid for 12 months. The total amount spend by that client your referee during the 12 months after the referral will be the basis for your commission. Referral comissions are 5% of the basis, credited in Spryte Points to your referral account 30 days after payments made by the referee; 
+ 3. You can't add referrals for companies you currently work for, or colleagues;
+ 4. For rules around the redeeming of Spryte Points see our Spryte Points Policy;
+ 5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional referrals;
+
 
 ## Spryte Points Policy
 
@@ -67,12 +76,4 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
 2. Double points for Weekly logins (Needs to keep a streak of 1 month of weekly logins)
 4. Journey completed  +1000pts
 5. Each day in the top 3 of the leaderboard +50pts/day
-   
-## Referrals
-You can refer Spryte Labs to someone who is interested in our service.
-
- 1. New Contacts must be new and unknown to us, with no existing Referrer;
- 2. A referral is valid for 12 months. The total amount spend by that client your referee during the 12 months after the referral will be the basis for your commission. Referral comissions are 5% of the basis, credited in Spryte Points to your referral account 30 days after payments made by the referee; 
- 3. You can't add referrals for companies you currently work for, or colleagues;
- 4. For rules around the redeeming of Spryte Points see our Spryte Points Policy;
- 5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional referrals;
+  
