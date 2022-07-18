@@ -23,61 +23,56 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
 5. Receive notifications about your favorite technologies and industry sectors;
 6. 
 
- ## Comissions
- 
- In Spryte Labs 
-
-## Referrals
-
- 1. New Contacts must be new and unknown to us, with no existing Referrer. i.e. the “first dibs” rule.
- 2. A referral is valid for 12 months. The total amount spend by that client(your referee) during the 12 months after the referral will be the basis for your commission. Referral comissions are 5% of the basis, credited in Spryte Points to your referral account 30 days after payments made by the referee. 
- 3. You can't add referrals for companies you currently work for, or colleagues
- 4. For rules around the redeeming of Spryte Points see our Spryte Points Policy
- 5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional referrals.
-
 ## Spryte Points Policy
 
   Every action in the Spryte Labs website is rewarded by points that can be redeemed as money. Those actions are divided into 3 different categories: Simple, Medium and Complex actions.
 
 ### Simple actions 1pts
 
-  Create Requirements
-  Talk to sales, talk to an account manager
-  View Dev Profiles/Consider Devs
-  Complete your profile (name, degrees, )
-  Connections
-  Get into groups chats
-  Request a partener account
-  FREELANCE DEVS: showcase interest in a company/requirement/project/stack/industry...
+1. Create Requirements;
+2. Add technology goals;
+3. Talk to sales, talk to an account manager;
+4. View Dev Profiles/Consider Devs;
+5. Complete your profile;
+6. Add connections;
+7. Get into groups chats;
+8. Request a partener account;
 
 ### Medium actions 5pts
 
-  Add technology goals
-  Save devs / add notes
-  Interview Devs
-  Recommend Spryte to other clients, get registrations
-  Recommend spryte to colleagues, get registrations
-  Submit sell side reports
-  FREELANCE DEVS: indicate interest in project/intership
-  Add Case Studies
+1. Add Case Studies;
+2. Save devs / add notes;
+3. Interview Devs;
+4. Add products;
+5. Recommend Spryte to other clients, get registrations;
+6. Recommend spryte to colleagues, get registrations;
+7. Submit sell side reports;
+8. FREELANCE DEVS: indicate interest in project/intership;
   
 ### Complex actions 100pts
 
-  Add certification
-  Add case study
-  Book Devs/ projects
-  Intervew devs
-  Refer a client;
-  Close a sell
-  Add products 
-  Schedule bench
-  Add Featured Devs
+1. Add certification;
+2. Add case study;
+3. Book Devs/ projects;
+4. Intervew devs;
+5. Close a sell;
+6. Add products;
+7. Schedule bench;
+8. Add Featured Devs;
   
-  ### Extras
   
-   Sign up  +500pts
-   Weekly login +50pts
-   x2 for Weekly logins (Needs to keep a streak of 1 month of weekly logins)
-   Journey completed  +1000pts
-   Each day in the top 3 of the leaderboard +50pts/day
+### Extras
+  
+1. Weekly login +50pts
+2. Double points for Weekly logins (Needs to keep a streak of 1 month of weekly logins)
+4. Journey completed  +1000pts
+5. Each day in the top 3 of the leaderboard +50pts/day
    
+## Referrals
+You can refer Spryte Labs to someone who is interested in our service.
+
+ 1. New Contacts must be new and unknown to us, with no existing Referrer;
+ 2. A referral is valid for 12 months. The total amount spend by that client your referee during the 12 months after the referral will be the basis for your commission. Referral comissions are 5% of the basis, credited in Spryte Points to your referral account 30 days after payments made by the referee; 
+ 3. You can't add referrals for companies you currently work for, or colleagues;
+ 4. For rules around the redeeming of Spryte Points see our Spryte Points Policy;
+ 5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional referrals;
