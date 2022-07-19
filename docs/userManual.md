@@ -40,31 +40,30 @@ You can refer Spryte Labs to someone who is interested in our service.
 
 1. Create Requirements;
 2. Add technology goals;
-3. Talk to sales, talk to an account manager;
 4. View Dev Profiles/Consider Devs;
 5. Complete your profile;
 6. Add connections;
 7. Get into groups chats;
 8. Request a partener account;
+9. FREELANCE DEVS: indicate interest in project/intership;
 
 ### Medium actions 5pts
 
-1. Add Case Studies;
+1. Talk to sales, talk to an account manager;
 2. Save devs / add notes;
 3. Interview Devs;
 4. Add products;
 5. Recommend Spryte to other clients, get registrations;
 6. Recommend spryte to colleagues, get registrations;
 7. Submit sell side reports;
-8. FREELANCE DEVS: indicate interest in project/intership;
   
-### Complex actions 100pts
+### Complex actions 50pts
 
 1. Add certification;
-2. Add case study;
+2. Add Case Studies;
 3. Book Devs/ projects;
 4. Intervew devs;
-5. Close a sell;
+5. Close a sale;
 6. Add products;
 7. Schedule bench;
 8. Add Featured Devs;
