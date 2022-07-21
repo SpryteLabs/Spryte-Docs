@@ -15,7 +15,8 @@ While navigating through the website, it’s expected that you:
   
 ## Connections
 
-Spryte Labs is a platform designed to help you connect and interact with Technology professionals around the world. We've designed connections and chats with certain aims:
+Spryte Labs is a platform designed to help you connect and interact with Technology professionals around the world. A part from professionals, you can also connect to companies, industry sectors, different technologies and project types. We've designed connections and chats with certain aims:
+
 1. Allow tech professionals to discover and meet other tech professionals and companies;
 2. Further their careers by expanding their technical & managerial network;
 3. Help others in the technology space, become a mentor;
@@ -23,7 +24,7 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
 5. Receive notifications about your favorite technologies and industry sectors;
 
 ## Referrals
-You can refer Spryte Labs to someone who is interested in our service.
+You can refer Spryte Labs to someone who may be interested in our service, and every referral gets you points that can be used inside the platform or redeemed. Some of the rules for referrals are:
 
  1. New Contacts must be new and unknown to us, with no existing Referrer;
  2. A referral is valid for 12 months. The total amount spend by that client your referee during the 12 months after the referral will be the basis for your commission. Referral comissions are 5% of the basis, credited in Spryte Points to your referral account 30 days after payments made by the referee; 
@@ -85,4 +86,8 @@ You can refer Spryte Labs to someone who is interested in our service.
 ## Leaderboards
   
   Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. However, there's a price envolved, since your points can be redeemeed as money you'll lose some of your influence to receive your prize. That means you'll need to find the perfect balance between money vs influence to boost even more your account.
+  
+## User's flows
+
+
    
