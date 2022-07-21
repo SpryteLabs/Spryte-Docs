@@ -33,7 +33,7 @@ You can refer Spryte Labs to someone who may be interested in our service, and e
  5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. Therefore, there's a price envolved, since your points can be redeemed
 
 ## Spryte Points Policy
-  Every action in the Spryte Labs website is rewarded by points that can be redeemed as money. Those actions are divided into 3 different categories: Simple, Medium and Complex actions.
+  Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties.
 
 ### Simple actions 1pts
 
