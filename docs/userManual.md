@@ -73,7 +73,6 @@ You can refer Spryte Labs to someone who is interested in our service.
 9. Submit a bug report; 
 10. Submit  index reports; 
 11. Submit a wrong-data report on the index.
-
   
   
 ### Extras
@@ -83,12 +82,6 @@ You can refer Spryte Labs to someone who is interested in our service.
 4. Each day in the top 3 of the leaderboard +50pts/day;
 5. Become a Sector Expert +2000pts;
 
-### Rules
-
-1. Weekly login +50pts;
-2. Double points for Weekly logins (Needs to keep a streak of 1 month of weekly logins);
-4. Journey completed  +1000pts;
-5. Each day in the top 3 of the leaderboard +50pts/day;
 
   
 ## Leaderboards
@@ -101,6 +94,17 @@ You can refer Spryte Labs to someone who is interested in our service.
   There are 6 different user's flow to explore: 
   
  ![image](https://user-images.githubusercontent.com/92649029/180339374-a34466fe-7daa-4e9a-8cc7-eb00f026b025.png)
+ 
+ ### Learn 
+ 
+   One of the routes you can explore is the option to learn and discover everything available in our website. The many possibilities 
+  
+  ### Verify
+  
+   Being part of the Spryte Labs's comunity is also helping our experts analyse other companies and products based on your expertise and help Spryte be even better. Having that in mind, we have developed a way for technology experts to help find bugs in our system and help other companies be better evaluated. 
+  
+  ![image](https://user-images.githubusercontent.com/92649029/180340088-a4fd366c-b55f-430a-b536-e0a7f1165601.png)
+
 
 
   
