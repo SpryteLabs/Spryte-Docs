@@ -35,10 +35,10 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
  4. For rules around the redeeming of Spryte Points see our Spryte Points Policy;
  5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. Therefore, there's a price envolved, since your points can be redeemed
 
-### Experts
+## Experts
  
 Sharing knowledge is one of the best ways to contribute to a strong comunity, that said, here in Spryte Labs, we want you to use your expertise to make a better platform for you and all other users. 
-An expert for us is someone that has the capability to check information, review companies and help other within their expertise. That said, from the information that you provide for your profile and from your interactions inside the platform it is possible to be promoted to an expert role. This role has some advantages as earning bonus points and being verified as an expert by Spryte.
+An expert for us is someone that has the capability to check information, review companies and help others within their expertise. That said, from the information that you provide for your profile and from your interactions inside the platform it is possible to be promoted to an expert role. This role has some advantages as earning bonus points and being verified as an expert by Spryte.
 
 ## Spryte Points Policy
   
@@ -73,6 +73,9 @@ An expert for us is someone that has the capability to check information, review
   ![image](https://user-images.githubusercontent.com/92649029/180340088-a4fd366c-b55f-430a-b536-e0a7f1165601.png)
   
    ### Buy
+   
+   Finding the right team for your project may be a dificult and stressful job, but in Spryte Labs you can find the perfect squad and be rewarded for that. You will go through some easy steps to determine what you'll need and throughout the process earn points and rewards.
+   ![image](https://user-images.githubusercontent.com/92649029/180357949-0ec4bae3-bd1d-4802-a296-7b04355fc04a.png)
    
    ### Market & Sell
    One of the most important factors for companies in general is to advertise and make their product known, that’s why we cherish Marketing that much. Having that in mind, you are able to have your company and its products reviewed by our specialists and ranked with other companies in the same sectors. 
