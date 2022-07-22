@@ -100,7 +100,8 @@ You can refer Spryte Labs to someone who is interested in our service.
   During your experience in our website, there are a few routes you can choose to explore the platform in different ways. According to your interests, you can choose which route you follow and earn points and prizes for that specific user's flow. 
   There are 6 different user's flow to explore: 
   
-  ![image](https://user-images.githubusercontent.com/92649029/180338828-ea089cc2-cfd6-473f-887d-9e76eaa25c5b.png)
+ ![image](https://user-images.githubusercontent.com/92649029/180339374-a34466fe-7daa-4e9a-8cc7-eb00f026b025.png)
+
 
   
 
