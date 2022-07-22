@@ -81,7 +81,7 @@ An expert for us is someone that has the capability to check information, review
    One of the most important factors for companies in general is to advertise and make their product known, that’s why we cherish Marketing that much. Having that in mind, you are able to have your company and its products reviewed by our specialists and ranked with other companies in the same sectors. 
    After making you company known in the market, the next step is to actually sell your services.
    
-   ![image](https://user-images.githubusercontent.com/92649029/180360714-d3390c88-c2ca-48f3-88fa-2ca3e207ee35.png)
+   ![image](https://user-images.githubusercontent.com/92649029/180441402-28924a91-cae5-4bf1-978c-0bebbcda7327.png)
 
    
 
