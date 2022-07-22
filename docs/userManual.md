@@ -30,6 +30,8 @@ You can refer Spryte Labs to someone who is interested in our service.
  4. For rules around the redeeming of Spryte Points see our Spryte Points Policy;
  5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. Therefore, there's a price envolved, since your points can be redeemed
 
+### Experts
+
 ## Spryte Points Policy
   
  Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties. The dificulties are divided into Simple actions, Medium actions and Complex actions.
@@ -91,5 +93,15 @@ You can refer Spryte Labs to someone who is interested in our service.
   
 ## Leaderboards
   
-  Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. However, there's a price envolved, since your points can be redeemeed as money you'll lose some of your influence to receive your prize. That means you'll need to find the perfect balance between money vs influence to boost even more your account.
+  Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. 
+  
+## User's Flow
+
+  During your experience in our website, there are a few routes you can choose to explore the platform in different ways. According to your interests, you can choose which route you follow and earn points and prizes for that specific user's flow. 
+  There are 6 different user's flow to explore: 
+  
+  ![image](https://user-images.githubusercontent.com/92649029/180338828-ea089cc2-cfd6-473f-887d-9e76eaa25c5b.png)
+
+  
+
    
