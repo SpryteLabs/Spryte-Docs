@@ -89,7 +89,7 @@ An expert for us is someone that has the capability to check information, review
    
    Getting connections, making friends and meeting new professionals are one of the most important features for us in Spryte Labs's. Sharing your knowledge with the Spryte's users helps build a stronger and more enriched comunity. 
 
-![image](https://user-images.githubusercontent.com/92649029/180354957-9a77e799-0a41-4b2b-8787-8fb4c1e4108c.png)
+![image](https://user-images.githubusercontent.com/92649029/180440455-edb72caf-361b-4ada-b6d1-6ce9ea67dced.png)
 
 
    
