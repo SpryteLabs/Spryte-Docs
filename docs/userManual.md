@@ -32,7 +32,7 @@ You can refer Spryte Labs to someone who is interested in our service.
 
 ## Spryte Points Policy
   
- Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties. The dificulties are divided into three types of action Simple actions, Medium actions and Complex actions.
+ Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties. The dificulties are divided into Simple actions, Medium actions and Complex actions.
 
 ### Simple actions 1pts
 
