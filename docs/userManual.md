@@ -37,58 +37,14 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
 ## Spryte Points Policy
   
  Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties. The dificulties are divided into Simple actions, Medium actions and Complex actions.
-
-### Simple actions 1pts
-
-1. Add information on your profile;
-2. Add technology goals;
-4. View Dev Profiles/Consider Devs;
-5. Connect with people, company, technology, products and industry types;
-6. Get into groups chats;
-7. Request a partener account;
-8. FREELANCE DEVS: indicate interest in project/intership;
-
-### Medium actions 5pts
-
-1. Complete your profile;
-2. Talk to sales, talk to an account manager;
-3. Add Featured Devs (including yourself);
-4. Create Requirements;
-5. Save devs / add notes;
-6.
-7. Add products; 
-8. Recommend Spryte to other clients, get registrations; 
-9. Recommend spryte to colleagues, get registrations; 
-10. Submit sell side reports;
-11. flag a user/comment;
+ 
+ ![image](https://user-images.githubusercontent.com/92649029/180351057-40efd666-b684-4296-84eb-bfd254449d61.png)
   
-### Complex actions 50pts
-
-1. Add certification;
-2. Add Case Studies;
-3. Schedule Bench;
-4. Book Devs/ projects;
-5. Intervew devs;
-6. Schedule bench;
-7. Referral a client;
-8. Rate companys and products; 
-9. Submit a bug report; 
-10. Submit  index reports; 
-11. Submit a wrong-data report on the index.
+  One of the main objectives of getting points for your actions is to move up on the leaderboards and get more visibility for your profile and your company.
   
+### Leaderboards
   
-### Extras
-  
-1. Weekly login +25pts;
-2. Double points for Weekly logins (Needs to keep a streak of 1 month of weekly logins);
-4. Each day in the top 3 of the leaderboard +50pts/day;
-5. Become a Sector Expert +2000pts;
-
-
-  
-## Leaderboards
-  
-  Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. 
+  Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. The points listed on the table above is to determine how many points you get for each category. A part from Buy and Sell, your points are acumulated for each of ther other 4 categories, meaning there will be a ranking with the best users for Market, Verify, Learn and Engage. 
   
 ## User's Flow
 
