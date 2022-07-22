@@ -33,13 +33,16 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
  5. Rules 1-4 above are negotiable on a case-by-case basis for exceptional Acumulating points increases the influence you have in the platform. The higher amount of points you have, more influence and more visbility your profile gets. That means more oportunities and more possibilities of growth. Therefore, there's a price envolved, since your points can be redeemed
 
 ### Experts
+ 
+Sharing knowledge is one of the best ways to contribute to a strong comunity, that said, here in Spryte Labs, we want you to use your expertise to make a better platform for you and all other users. 
+An expert for us is someone that has the capability to check information, review companies and help other within their expertise. That said, from the information that you provide for your profile and from your interactions inside the platform it is possible to be promoted to an expert role. This role has some advantages as earning bonus points and being verified as an expert by Spryte.
 
 ## Spryte Points Policy
   
  Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties. The dificulties are divided into Simple actions, Medium actions and Complex actions.
  
- ![image](https://user-images.githubusercontent.com/92649029/180351057-40efd666-b684-4296-84eb-bfd254449d61.png)
-  
+ ![image](https://user-images.githubusercontent.com/92649029/180351833-537b67c1-7236-479b-8811-a21a8d9b2d94.png)
+
   One of the main objectives of getting points for your actions is to move up on the leaderboards and get more visibility for your profile and your company.
   
 ### Leaderboards
