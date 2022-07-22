@@ -1,5 +1,8 @@
 # The Spryte User Manual
 
+## Who is this for?
+Spryte Labs is designed to be the premier destination for buying and selling technology experts, which means that anyone interested in this field will identify with the platform. In addition, the Spryte Labs website is a platform to connect technology managers, experienced developers and young professionals to generate more interaction between people, contributing to the personal and professional development of everyone.
+
 ## What's Expected?
 While navigating through the website, it’s expected that you:
 
