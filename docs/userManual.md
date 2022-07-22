@@ -22,7 +22,9 @@ Spryte Labs is a platform designed to help you connect and interact with Technol
 5. Receive notifications about your favorite technologies and industry sectors;
 
 ## Referrals
-You can refer Spryte Labs to someone who is interested in our service.
+
+  This feature allows you and an acquaninted of yours to gain benefits just from referrering Spryte Labs to them. You earn points on every project they start with us within 12 months. You just need to fill in their contact info & company information, add a personalized message and then copy the embed code generated and email it to them (it includes their discount code). 
+  The rules for the Spryte Referrals are:
 
  1. New Contacts must be new and unknown to us, with no existing Referrer;
  2. A referral is valid for 12 months. The total amount spend by that client your referee during the 12 months after the referral will be the basis for your commission. Referral comissions are 5% of the basis, credited in Spryte Points to your referral account 30 days after payments made by the referee; 
@@ -99,7 +101,7 @@ You can refer Spryte Labs to someone who is interested in our service.
  
    One of the routes you can explore is the option to learn and discover everything available in our website. Knowing the best companies in the market and discoverying new technologies available are just one of the many possibilities that the Spryte Labs's website offers to help you improve your professional knowledge.   
   
- ![image](https://user-images.githubusercontent.com/92649029/180341297-00c8b040-2ea5-4c3f-9405-f1b2c739bd76.png)
+![image](https://user-images.githubusercontent.com/92649029/180343150-d44216f9-4204-4b31-aa09-ef5d8374281b.png)
 
   
   ### Verify
