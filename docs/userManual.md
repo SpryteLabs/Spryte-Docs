@@ -107,8 +107,16 @@ You can refer Spryte Labs to someone who is interested in our service.
    Being part of the Spryte Labs's comunity is also helping our experts analyse other companies and products based on your expertise and help Spryte be even better. Having that in mind, we have developed a way for technology experts to help find bugs in our system and help other companies be better evaluated. 
   
   ![image](https://user-images.githubusercontent.com/92649029/180340088-a4fd366c-b55f-430a-b536-e0a7f1165601.png)
+  
+   ### Buy
+   
+   ### Sell
+   
+   ### Market
 
-
+   ### Engage
+   
+   Getting connections, making friends and meeting new professionals are one of the most important features for us in Spryte Labs's. Sharing your knowledge with the Spryte's users helps build a stronger and more enriched comunity. 
 
   
 
