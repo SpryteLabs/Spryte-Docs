@@ -97,7 +97,10 @@ You can refer Spryte Labs to someone who is interested in our service.
  
  ### Learn 
  
-   One of the routes you can explore is the option to learn and discover everything available in our website. The many possibilities 
+   One of the routes you can explore is the option to learn and discover everything available in our website. Knowing the best companies in the market and discoverying new technologies available are just one of the many possibilities that the Spryte Labs's website offers to help you improve your professional knowledge.   
+  
+ ![image](https://user-images.githubusercontent.com/92649029/180341297-00c8b040-2ea5-4c3f-9405-f1b2c739bd76.png)
+
   
   ### Verify
   
