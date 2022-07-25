@@ -44,7 +44,7 @@ An expert for us is someone that has the capability to check information, review
   
  Every action in the Spryte Labs website is rewarded by points that can be used inside the platform and in some cases are redeemable. Those points are divided into 6 different categories: Learn, Buy, Engage, Market, Sell and Verify. The points that can be redeembale and used to buy projects inside the platform are the ones earned from the Buying and Selling categories. The other four categories are used to rank the best and most active users for each category. The points are awarded according to the actions and its difficulties. The dificulties are divided into Simple actions, Medium actions and Complex actions.
  
- ![image](https://user-images.githubusercontent.com/92649029/180351833-537b67c1-7236-479b-8811-a21a8d9b2d94.png)
+![image](https://user-images.githubusercontent.com/92649029/180804497-7defb3dd-0f62-4f8a-b409-30c7bbf0d629.png)
 
   One of the main objectives of getting points for your actions is to move up on the leaderboards and get more visibility for your profile and your company.
   
