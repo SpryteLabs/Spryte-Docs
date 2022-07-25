@@ -75,7 +75,7 @@ An expert for us is someone that has the capability to check information, review
   
    ### Buy
    
-    Finding the right team for your project may be a difficult and stressful job, but in Spryte Labs you can find the perfect squad and be rewarded for that. You will go through some easy steps to determine what you'll need and throughout the process earn points and rewards.
+   Finding the right team for your project may be a difficult and stressful job, but in Spryte Labs you can find the perfect squad and be rewarded for that. You will go through some easy steps to determine what you'll need and throughout the process earn points and rewards.
     
    ![image](https://user-images.githubusercontent.com/92649029/180357949-0ec4bae3-bd1d-4802-a296-7b04355fc04a.png)
    
