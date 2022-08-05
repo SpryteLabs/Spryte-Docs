@@ -12,3 +12,27 @@ Spryte's highest goal is to ***Increase Project Success*** for our Clients! This
 - Improving transparency!
 
 Any ideas on how to achieve our goals please submit to **stephane@sprytelab.com** with the title: #idea
+
+
+## Questions ideas, comments
+
+1. Points
+ - Allow convertibility of points across types (marketing points can be used for buy but they might not convert 1-1)
+
+2. Communication
+ - Circumvention issues with allowing users to connect to other users?
+ 
+ 
+ ## Referrals
+  1. Points
+   - New referral: 100 points
+   - 5-day streak 1 referral per day: +100 point (not breaking the streak)
+   - thumbs up (referral still interesting)
+   - Verified Warm Intro: +100p
+   - Warm Reminder (repeated): +50p
+   - Positive Website data: +X points
+   - Referee activity (page views...): 
+   
+## Index/Verify
+ 1. Add info on Company
+   
