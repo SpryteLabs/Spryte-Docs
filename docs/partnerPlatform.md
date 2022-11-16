@@ -39,6 +39,39 @@ Case studies have a default status of **DRAFT**. When you are happy with the inf
 
 
 
+
+
+## Quick Onboarding for Staffing Firms -- Fulfilling your first requirement
+
+Staffing firms can upload their first resource on the Spryte Platform and propose them for a client in under 5min. We highly recommend watching the full process via this video:
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/771792320?h=fff8b46824&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Spryte-Partner-Quick-Onboarding-Staffing-v1-2022.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+
+Fulfilling a requirement requires only a few steps:
+  1. That you've read and signed the Spryte Terms & Conditions on the Open Requirements Page.
+  2. That you've uploaded a Resource (manually, or via the resume uploader)
+  3. That you've picked an Open Requirement with a position open to you
+
+### Signing the Terms and Conditions
+
+Before you can view requirement details or propose resources, you must review and accept the Spryte Terms & Conditions of sale. The signature is digitally signed and recorded. Click on the Terms link to view them, and click accept to sign.
+
+![Unsigned Terms](_media/partnerPlatform/Spryte-Partner-Unsigned-Terms.jpeg)
+
+Once the terms have been accepted, the timestamp & user are recorded. When terms change, you will have to read and accept them again.
+
+![Signed Terms](_media/partnerPlatform/Spryte-Partner-Signed-Terms.jpeg)
+
+Once Terms have been signed, you have access to view requirement details by pressing the blue magnifying glass icon on each requirement. Requirements which do not have this icon are not open to you, but if you feel you may be able to fulfill them, speak to your account manager. Requirements are Opened to you based on your past relationship with Spryte, as well as your markets and capabilities. If you want access to more requirements, take a look at adding your company details, case studies and Markets on the Branding & Market pages.
+
+### Adding a Resource
+
+See this section on [Adding Resources](#resume-upload)
+
+
+
 ## Onboarding your developer data as a Technical Partner
 
 As an account manager, you have multiple options for adding information about your Developer Roster. You can enter all their information one-by-one, but to get started quickly we recommend using the **bulk-import** function. 
