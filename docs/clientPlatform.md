@@ -137,3 +137,28 @@ TBD
 
 ### Terms and Conditions
 TBD
+
+
+# Your Personal Account Page Options
+
+## Profile Options
+
+### Improve your Personal Profile
+TBD
+
+### Get Rated
+TBD - perform a Spryte Assessment & get your stacks skills rated objectively
+
+### Get Recognized
+TBD - be considered for a Spryte Spotlight, & perform a video Interview
+
+## Earn Options
+
+###  Create a Referral
+TBD
+
+### Find a Job
+TBD
+
+### Join the Spryte Expert Network
+TBD
