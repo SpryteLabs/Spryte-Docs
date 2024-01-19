@@ -6,7 +6,7 @@ Spryte Spotlight Badges provide a way to showcase your company & products relati
 
 For more information on the inclusion criteria and scoring for Market Reports, check out Sprytelabs' Research Scoring and Methodologies guides here:
 - [Spryte Index Methodology](https://firebasestorage.googleapis.com/v0/b/spryte-p.appspot.com/o/Assets%2FDocuments%2FSpryte%20Index%20Methodology%20%26%20Data%20v2.pdf?alt=media&token=2d1bb4d8-5a78-4e35-8b30-f0494bf7e16a)
-- [Spryte Spotlight CTO Awards Methodology] (https://firebasestorage.googleapis.com/v0/b/spryte-p.appspot.com/o/Assets%2FDocuments%2FSpryte%20Index%20Methodology%20%26%20Data%20v2.pdf?alt=media&token=2d1bb4d8-5a78-4e35-8b30-f0494bf7e16a)
+- [Spryte Spotlight CTO Awards Methodology](https://firebasestorage.googleapis.com/v0/b/spryte-p.appspot.com/o/Assets%2FDocuments%2FSpryte%20Index%20Methodology%20%26%20Data%20v2.pdf?alt=media&token=2d1bb4d8-5a78-4e35-8b30-f0494bf7e16a)
 
 
 ## Receiving your Spryte Spotlight Badges
