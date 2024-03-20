@@ -162,3 +162,14 @@ TBD
 
 ### Join the Spryte Expert Network
 TBD
+
+# Your Company Account Page Options
+
+## Match 
+The match page allows you to set your company match settings. Once set, you'll receive 6 AI Matched relevant profiles every week, month or whichever frequency you've set under the Notification Settings.
+
+## Search
+The search tab lets you search & browse all available devs on the platform, think of it as the open bench from all Spryte Partners. You can filter by location, skills, position, and even partner company to view individual vendors.
+
+## Favorites
+Save favorite devs by clicking on the Heart icon on any Dev Card. Your favorites will be saved in the Favorites Tab, just click the heart icon again to remove them. Only companies with associated users have the favorites tab enabled.
