@@ -3,6 +3,7 @@
 * [Home](/)
 * [Questions & Answers](Q&A.md)
 * [Spryte Spotlight](spryteSpotlight.md)
+* [Focus Page](focuspage.md)
 * [Partner Platform](partnerPlatform.md)
     * [Markets](partnerPlatform.md)
 * [Client Platform](clientPlatform.md)

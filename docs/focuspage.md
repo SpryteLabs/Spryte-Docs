@@ -5,27 +5,27 @@ A focus page is a marketing tool designed to help marketing professionals reach 
 ### How to create a new Focus Page
 
 1.	First log into the dashboard. If you are new to Spryte Labs please create an account.
-![Log In](_media/Features/Custom%20E-Mail/Focus%20page/sign-in.png)
+![Log In](_media/focusPage/sign-in.png)
 
 2.	Go to the dropdown menu and select **My Focus Page**
-![Select My Focus Page](_media/Features/Custom%20E-Mail/Focus%20page/focus-page-dropdown.png)
+![Select My Focus Page](_media/focusPage/focus-page-dropdown.png)
 
 3.	Navigate to **Create New**
- ![Create New](_media/Features/Custom%20E-Mail/Focus%20page/focus-page-create-new.png)
+ ![Create New](_media/focusPage/focus-page-create-new.png)
 
 4.	Input **Page Name Slug**, **Associated Categories**, **Share Edit Access**, and adjust **Page Items & Initial Settings** to your preferences. Click **Create**.
- ![Page Parameters](_media/Features/Custom%20E-Mail/Focus%20page/focus-page-add-new-page.png)
+ ![Page Parameters](_media/focusPage/focus-page-add-new-page.png)
 
 
 ### How to view an existing Focus Page
 1.	Log into the dashboard.
-![Log In](_media/Features/Custom%20E-Mail/Focus%20page/sign-in.png)
+![Log In](_media/focusPage/sign-in.png)
 
 2.	Go to the dropdown menu and select **My Focus Page**
-![Select My Focus Page](_media/Features/Custom%20E-Mail/Focus%20page/focus-page-dropdown.png)
+![Select My Focus Page](_media/focusPage/focus-page-dropdown.png)
 
 3. Click to select the desired Focus Page from the list, the page will open in a new tab.
-![View Focus Page](_media/Features/Custom%20E-Mail/Focus%20page/select-page-to-view.png)
+![View Focus Page](_media/focusPage/select-page-to-view.png)
 
 4.	To download the promotional material, click the **Download Now!** button.
-![Download Promotional Material](_media/Features/Custom%20E-Mail/Focus%20page/focus-page-test-page.png)
+![Download Promotional Material](_media/focusPage/focus-page-test-page.png)
