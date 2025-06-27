@@ -163,7 +163,105 @@ TBD
 ### Join the Spryte Expert Network
 TBD
 
-# Your Company Account Page Options
+# Your Company Account Options
+
+## Company Account Page
+
+The Company Account Page is your internal dashboard on Spryte. It’s where you establish the foundation of your company’s presence, visibility, and ranking within the Spryte ecosystem.
+
+This dashboard guides you through key onboarding steps and ensures your profile aligns with Spryte’s industry ranking system. From here, you can manage account settings, upload content for your public company profile, highlight your marketing technology strengths, and view your key points of contact at Spryte.
+
+The information you provide on this page may be used to optimize your placement in the Spryte Index and to evaluate your eligibility for future awards and spotlight features.
+
+### Feature Breakdown
+
+#### Suggestions – Next Steps:
+
+This section provides clear next steps to help you get started. Action cards will walk you through important setup milestones such as claiming and updating your public company profile, describing your technology teams, and learning about the Spryte Spotlight program. Each item links to supporting documentation to guide you through the process.
+
+#### Technology:
+
+Here is where you can describe your technology teams in detail, including team sizes and specializations, manage your project requirements, and view matches to opportunities that align with your capabilities. This section also gives you access to the Spryte roster, where you can explore additional development resources. A designated Technology Head can be assigned to manage this area, with an option to upload their resume.
+
+#### Marketing:
+
+The marketing section focuses on showcasing your company’s marketing technology strengths. You can define the tools and platforms you use to engage your audience and promote your products. Completing this section helps Spryte categorize your company effectively and improves your visibility within relevant industry segments. As with the technology section, you can assign a Marketing Head who can manage this section.
+
+#### Account Settings:
+
+This section allows you to configure your Spryte account and designate an Account Settings Head.
+
+#### Account Information:
+
+The account information panel shows some of your organization’s key information. It includes your company name, business unit, linked domain, registered users, and company executives. 
+
+#### Spryte Points of Contact:
+
+Here you will find contact cards for your Account Manager and Success Manager at Sprtye. 
+
+Your Account Manager is your primary point of contact for account configuration, open requirements, hiring and information on your company’s rankings.
+
+Your Success Manager can help you launch a new project with Spryte and answer any questions related to ongoing projects.
+
+### How to access your Company Account Page
+
+Please log into the dashboard. If you are new to Spryte Labs you will need to create an account.
+
+1.	Go to the dropdown menu and navigate to **My Company**. Select **Account**
+
+![User Menu Company Account](_media/clientPlatform/companyAccountPage/User-menu-account.png)
+
+
+
+## Company Profile Page
+Spryte’s Company Profile Pages are curated landing pages that showcase your company on our platform. Each page functions as a digital portfolio for potential clients and appllicants to learn about your company's leadership, core products, and tech stack. Your profile also highlights your expertise and industry standing through awards, sector rankings, and Spryte Spotlight features.
+
+### Feature Breakdown
+
+#### Company Overview: 
+Displays your company name, logo, website, description, tags, and any earned Spryte awards (refer to [Spryte Spotlight](https://sprytelabs.com/spotlight) for more information). 
+
+#### Specialty Sector Ranking:
+Showcase how your company ranks within your primary sector and subsectors. Rankings are derived from a combination of third-party and public data, company provided information and market expert analysis.
+
+Refer to [Spryte Index Methodology & Data](https://firebasestorage.googleapis.com/v0/b/spryte-p.appspot.com/o/Assets%2FDocuments%2FSpryte%20Index%20Methodology%20%26%20Data%20v2.pdf?alt=media&token=2d1bb4d8-5a78-4e35-8b30-f0494bf7e16a) for more information on the Spryte Index.
+
+#### Technology Products We Make:
+Highlight key products and services your company offers. Choose from Spryte’s extensive product library—or work with your Account Manager to add custom entries that reflect your unique offerings.
+
+#### Technology Products We Use
+Give prospective clients and collaborators a clear picture of your tech stack by listing the software, frameworks, platforms, and services your team actively uses. This can help them understand your team's strengths and compatibility with their own tech stack.
+You can select from Spryte’s existing technology catalog or contact your Account Manager for custom entries. 
+
+#### Open Positions
+Showcase current job openings to signal company growth and attract qualified talent. Open positions are pulled from online job boards, company websites, or can be added manually through your Spryte partner dashboard.
+
+#### Open Candidature (Under Development)
+The Open Candidature feature allows interested professionals to submit their profiles and resumes even when no open roles are listed. This is ideal for companies building talent pipelines or seeking specialized skillsets on a rolling basis.
+Candidates can browse your company profile and submit their interest through a dedicated form, ensuring you're not missing out on potential contributors just because a formal role hasn’t been posted yet.
+
+#### Start an Internship (Under Development)
+This feature enables recent graduates and early-career professionals to express their interest in interning with your company, even if no internships are currently posted. It’s a great way to engage emerging talent who are enthusiastic about your work and want to contribute to your team.
+
+### How to access your Company Profile Page
+Please log into the dashboard. If you are new to Spryte Labs you will need to create an account.
+
+1.	Go to the dropdown menu and navigate to **My Company**. Select **Profile**
+
+![User Menu Company Profile](_media/clientPlatform/companyProfilePage/User-menu-profile.png)
+
+2.	You can request control of your Company Profile Page by clicking on **Work at XXX? Take control of this page** and click “Add a work email”. Your email domain name must match the company name.
+
+![Take Control](_media/clientPlatform/companyProfilePage/Take-control.png)
+
+3.	Verify your email. 
+
+
+4.	You can now edit tags, products and tech stack on your company profile. 
+
+![Edit Tags](_media/clientPlatform/companyProfilePage/Edit-tags.png)
+
+![Edit Product and Tech Stack](_media/clientPlatform/companyProfilePage/Edit-profile-page.png)
 
 ## Match 
 The match page allows you to set your company match settings. Once set, you'll receive 6 AI Matched relevant profiles every week, month or whichever frequency you've set under the Notification Settings.
