@@ -183,9 +183,61 @@ This section provides clear next steps to help you get started. Action cards wil
 
 Here is where you can describe your technology teams in detail, including team sizes and specializations, manage your project requirements, and view matches to opportunities that align with your capabilities. This section also gives you access to the Spryte roster, where you can explore additional development resources. A designated Technology Head can be assigned to manage this area, with an option to upload their resume.
 
-#### Marketing:
+##### *Marketing:*
 
-The marketing section focuses on showcasing your company’s marketing technology strengths. You can define the tools and platforms you use to engage your audience and promote your products. Completing this section helps Spryte categorize your company effectively and improves your visibility within relevant industry segments. As with the technology section, you can assign a Marketing Head who can manage this section.
+The Marketing section helps Spryte understand and showcase how your company communicates its value, positions its products, and reaches the right audiences. It plays a key role in industry rankings and public visibility by surfacing your company’s marketing technologies, achievements, and content strategies.
+By completing this section, your company improves its discoverability and eligibility for Spryte’s ranking programs and editorial features. Assign a Marketing Head to maintain this section, and upload their resume to verify expertise and build platform trust.
+
+##### *Discover the Spryte Index Leaderboard*
+
+View your company’s current standing within the Spryte ecosystem. Rankings are calculated based on profile completeness, visibility, project outcomes, marketing activity, and peer comparison. Use this leaderboard to benchmark progress and identify areas for growth.
+
+To access the leaderboard:<ol>
+1.	Navigate to the Marketing section.
+2.	Click “Discover the Spryte Index Leaderboard”.
+3.	You’ll be redirected to the real-time leaderboard filtered by sector or stack.
+</ol>
+
+You can explore:<ul>
+<li>Your current rank</li>
+<li>Peer comparisons</li>
+<li>Industry-specific performance</li>
+</ul>
+
+##### *Discover the Spryte Spotlight Program*
+
+Learn how your company can be recognized as a top performer. The Spotlight program highlights standout teams based on innovation, execution, and strategic impact. This editorial-driven feature boosts visibility and signals quality to potential partners.
+
+To receive a Spotlight Badge:<ol>
+1.	Ensure your Company Profile is complete and verified.
+2.	Participate in relevant projects and submit case studies.
+3.	Monitor your rank on the Spryte Index.
+4.	Spryte editorial teams select Spotlight companies quarterly.
+</ol>
+
+##### *Set Up Your Tech Lead*
+
+Assign and verify your company’s primary technical leader. This individual represents your technical capabilities and strategy, and their involvement contributes to your Spryte Index ranking. Upload a resume to complete the verification process.
+
+##### *View Your Spotlight Feature*
+
+Access your company’s live or archived Spotlight content. This public-facing feature highlights your contributions to the tech industry and may include interviews, awards, or thought leadership. Share it to attract new clients, collaborators, and talent.
+
+To access:<ol>
+1.	Click “View Your Spotlight Feature” in the Marketing section.
+2.	You’ll be redirected to your published Spotlight article.
+</ol>
+
+
+##### *Upload Marketing Head Resume*
+Designate a Marketing Head to manage this section. Uploading their resume ensures your marketing data is trusted and qualifies your company for higher visibility opportunities on the platform.
+
+To complete: <ol>
+1.	Click “Upload Resume” in the Marketing section.
+2.	Upload a resume file (PDF, DOCX).
+3.	Assign a title and email contact.
+</ol>
+
 
 #### Account Settings:
 
