@@ -183,10 +183,9 @@ This section provides clear next steps to help you get started. Action cards wil
 
 Here is where you can describe your technology teams in detail, including team sizes and specializations, manage your project requirements, and view matches to opportunities that align with your capabilities. This section also gives you access to the Spryte roster, where you can explore additional development resources. A designated Technology Head can be assigned to manage this area, with an option to upload their resume.
 
-##### *Marketing:*
+#### Marketing:
 
-The Marketing section helps Spryte understand and showcase how your company communicates its value, positions its products, and reaches the right audiences. It plays a key role in industry rankings and public visibility by surfacing your company’s marketing technologies, achievements, and content strategies.
-By completing this section, your company improves its discoverability and eligibility for Spryte’s ranking programs and editorial features. Assign a Marketing Head to maintain this section, and upload their resume to verify expertise and build platform trust.
+The Marketing section helps Spryte understand and showcase how your company communicates its value, positions its products, and reaches the right audiences. It plays a key role in industry rankings and public visibility by surfacing your company’s marketing technologies, achievements, and content strategies. By completing this section, your company improves its discoverability and eligibility for Spryte’s ranking programs and editorial features. Assign a Marketing Head to maintain this section, and upload their resume to verify expertise and build platform trust.
 
 ##### *Discover the Spryte Index Leaderboard*
 
@@ -215,6 +214,8 @@ To receive a Spotlight Badge:<ol>
 4.	Spryte editorial teams select Spotlight companies quarterly.
 </ol>
 
+For more information on this program, visit [Spryte Spotlight Documentation](https://sprytelabs.github.io/Spryte-Docs/#/spryteSpotlight?id=spryte-spotlight)
+
 ##### *Set Up Your Tech Lead*
 
 Assign and verify your company’s primary technical leader. This individual represents your technical capabilities and strategy, and their involvement contributes to your Spryte Index ranking. Upload a resume to complete the verification process.
@@ -235,7 +236,6 @@ Designate a Marketing Head to manage this section. Uploading their resume ensure
 To complete: <ol>
 1.	Click “Upload Resume” in the Marketing section.
 2.	Upload a resume file (PDF, DOCX).
-3.	Assign a title and email contact.
 </ol>
 
 
