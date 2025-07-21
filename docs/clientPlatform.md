@@ -141,27 +141,81 @@ TBD
 
 # Your Personal Account Page Options
 
-## Profile Options
+The Personal Account Page is designed for individual users to manage their presence, engagement, and monetization opportunities within the Spryte ecosystem. Each card represents a key function or area of interaction for professionals on the platform.
 
-### Improve your Personal Profile
-TBD
+## Profile  
 
-### Get Rated
-TBD - perform a Spryte Assessment & get your stacks skills rated objectively
+**Spryte User Social, Branding & Marketing Features**  
+This section helps you build and manage your personal brand on Spryte. Showcase your experience, increase your visibility, and grow your presence in the network.
 
-### Get Recognized
-TBD - be considered for a Spryte Spotlight, & perform a video Interview
+- **Improve your Personal Profile**  
+  Complete your personal profile by adding your skills, experiences, and highlights. A polished profile boosts credibility and helps match you to relevant opportunities.
 
-## Earn Options
+- **Get Rated**  
+  Collect ratings from past collaborators to establish trust and reputation. Ratings influence your match potential and visibility on the platform.
 
-###  Create a Referral
-TBD
+- **Get Recognized**  
+  Earn recognition through consistent high-quality performance. Recognition may unlock high-profile opportunities and Spotlight placements.
 
-### Find a Job
-TBD
+---
 
-### Join the Spryte Expert Network
-TBD
+## Earn  
+
+**Make money off your brains, knowledge or experience.**  
+Explore monetization opportunities within Spryte’s ecosystem.
+
+- **Create a Referral**  
+  Refer people or companies to Spryte and earn rewards when they convert. Quality referrals improve your referral score.
+
+- **Find your Dream Tech Job**  
+  Browse curated job opportunities that match your skills and preferences. Updated frequently from partner platforms and direct listings.
+
+- **Join the Expert Network**  
+  Apply to be part of Spryte’s verified Expert Network. Experts may be tapped for consulting, team advising, or evaluations.
+
+---
+
+## Acquire  
+
+**Technology Sourcing Features**  
+For users managing or launching projects, these tools assist with finding and engaging technology teams.
+
+- **Create a Requirement**  
+  Define project needs and scope. This information fuels Spryte’s algorithmic matching with qualified vendors or freelancers.
+
+- **Compute Company Matches**  
+  Use your project requirements to generate a shortlist of suitable company matches. Recommendations are based on past performance, tech alignment, and availability.
+
+---
+
+## Engage  
+**Engage with other Tech professionals**  
+Connect with peers and collaborators within the Spryte ecosystem.
+
+- **Try Spryte Chat**  
+  Initiate and manage conversations via Spryte’s built-in messaging system. Use it for team coordination, networking, or candidate outreach.
+
+---
+
+## Learn  
+**Knowledge Center**  
+Access platform documentation and learning resources.
+
+- **View Spryte Docs**  
+  Read onboarding guides, product documentation, and platform best practices. Stay informed and get the most out of your Spryte experience.
+
+---
+
+## Verify  
+**Security, Access & Authentication Features**  
+Manage identity verification and payment settings.
+
+- **Verify your Work Email**  
+  Confirm your work email address to unlock restricted features.
+
+- **Add a Payment Method**  
+
+---
 
 # Your Company Account Options
 
@@ -173,21 +227,48 @@ This dashboard guides you through key onboarding steps and ensures your profile 
 
 The information you provide on this page may be used to optimize your placement in the Spryte Index and to evaluate your eligibility for future awards and spotlight features.
 
-### Feature Breakdown
+---
 
-#### Suggestions – Next Steps:
+### Suggestions – Next Steps
 
 This section provides clear next steps to help you get started. Action cards will walk you through important setup milestones such as claiming and updating your public company profile, describing your technology teams, and learning about the Spryte Spotlight program. Each item links to supporting documentation to guide you through the process.
 
-#### Technology:
+---
 
-Here is where you can describe your technology teams in detail, including team sizes and specializations, manage your project requirements, and view matches to opportunities that align with your capabilities. This section also gives you access to the Spryte roster, where you can explore additional development resources. A designated Technology Head can be assigned to manage this area, with an option to upload their resume.
+### Technology:
 
-#### Marketing:
+Here is where you can describe your technology teams in detail, including team sizes and specializations, manage your project requirements, and view matches to opportunities that align with your capabilities. This section also gives you access to the Spryte roster, where you can explore additional development resources. Completing this section unlocks better-matched projects, access to technical talent, and increased visibility in Spryte’s ecosystem. A designated Technology Head can be assigned to manage this area, with an option to upload their resume.
+
+---
+
+#### *Describe Your Technology Teams*
+
+This page allows your company to declare and verify key details about your technology organization. The data collected here helps Spryte assess your company’s development capacity, technical investment, and project-readiness. A portion of your Spryte Index ranking is directly influenced by the accuracy and completeness of this section.
+
+---
+
+#### *Manage my Requirements*
+
+The Manage My Requirements tool allows you to quickly and securely share what roles, expertise, and support you need to move your project forward. In just six guided steps, you can define open technical roles, set expectations, and allow Spryte to match you with vetted talent from its global 
+partner network.
+
+---
+
+#### *View My Matches*
+
+---
+
+#### *View the Available Spryte Roster*
+
+---
+
+### Marketing:
 
 The Marketing section helps Spryte understand and showcase how your company communicates its value, positions its products, and reaches the right audiences. It plays a key role in industry rankings and public visibility by surfacing your company’s marketing technologies, achievements, and content strategies. By completing this section, your company improves its discoverability and eligibility for Spryte’s ranking programs and editorial features. Assign a Marketing Head to maintain this section, and upload their resume to verify expertise and build platform trust.
 
-##### *Discover the Spryte Index Leaderboard*
+---
+
+#### *Discover the Spryte Index Leaderboard*
 
 View your company’s current standing within the Spryte ecosystem. Rankings are calculated based on profile completeness, visibility, project outcomes, marketing activity, and peer comparison. Use this leaderboard to benchmark progress and identify areas for growth.
 
@@ -203,7 +284,9 @@ You can explore:<ul>
 <li>Industry-specific performance</li>
 </ul>
 
-##### *Discover the Spryte Spotlight Program*
+---
+
+#### *Discover the Spryte Spotlight Program*
 
 Learn how your company can be recognized as a top performer. The Spotlight program highlights standout teams based on innovation, execution, and strategic impact. This editorial-driven feature boosts visibility and signals quality to potential partners.
 
@@ -216,11 +299,15 @@ To receive a Spotlight Badge:<ol>
 
 For more information on this program, visit [Spryte Spotlight Documentation](https://sprytelabs.github.io/Spryte-Docs/#/spryteSpotlight?id=spryte-spotlight)
 
-##### *Set Up Your Tech Lead*
+---
+
+#### *Set Up Your Tech Lead*
 
 Assign and verify your company’s primary technical leader. This individual represents your technical capabilities and strategy, and their involvement contributes to your Spryte Index ranking. Upload a resume to complete the verification process.
 
-##### *View Your Spotlight Feature*
+---
+
+#### *View Your Spotlight Feature*
 
 Access your company’s live or archived Spotlight content. This public-facing feature highlights your contributions to the tech industry and may include interviews, awards, or thought leadership. Share it to attract new clients, collaborators, and talent.
 
@@ -229,8 +316,9 @@ To access:<ol>
 2.	You’ll be redirected to your published Spotlight article.
 </ol>
 
+---
 
-##### *Upload Marketing Head Resume*
+#### *Upload Marketing Head Resume*
 Designate a Marketing Head to manage this section. Uploading their resume ensures your marketing data is trusted and qualifies your company for higher visibility opportunities on the platform.
 
 To complete: <ol>
@@ -238,22 +326,29 @@ To complete: <ol>
 2.	Upload a resume file (PDF, DOCX).
 </ol>
 
+---
 
-#### Account Settings:
+### Account Settings:
 
 This section allows you to configure your Spryte account and designate an Account Settings Head.
 
-#### Account Information:
+---
+ 
+### Account Information:
 
 The account information panel shows some of your organization’s key information. It includes your company name, business unit, linked domain, registered users, and company executives. 
 
-#### Spryte Points of Contact:
+---
+
+### Spryte Points of Contact:
 
 Here you will find contact cards for your Account Manager and Success Manager at Sprtye. 
 
 Your Account Manager is your primary point of contact for account configuration, open requirements, hiring and information on your company’s rankings.
 
 Your Success Manager can help you launch a new project with Spryte and answer any questions related to ongoing projects.
+
+---
 
 ### How to access your Company Account Page
 
@@ -263,7 +358,7 @@ Please log into the dashboard. If you are new to Spryte Labs you will need to cr
 
 ![User Menu Company Account](_media/clientPlatform/companyAccountPage/User-menu-account.png)
 
-
+---
 
 ## Company Profile Page
 Spryte’s Company Profile Pages are curated landing pages that showcase your company on our platform. Each page functions as a digital portfolio for potential clients and appllicants to learn about your company's leadership, core products, and tech stack. Your profile also highlights your expertise and industry standing through awards, sector rankings, and Spryte Spotlight features.
