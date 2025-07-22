@@ -216,10 +216,10 @@ Manage identity verification and payment settings.
 - **Add a Payment Method**  
 
 ---
+---
+<br>
 
-# Your Company Account Options
-
-## Company Account Page
+# Your Company Account Page
 
 The Company Account Page is your internal dashboard on Spryte. It’s where you establish the foundation of your company’s presence, visibility, and ranking within the Spryte ecosystem.
 
@@ -227,7 +227,17 @@ This dashboard guides you through key onboarding steps and ensures your profile 
 
 The information you provide on this page may be used to optimize your placement in the Spryte Index and to evaluate your eligibility for future awards and spotlight features.
 
+
+## How to access your Company Account Page
+
+Please log into the dashboard. If you are new to Spryte Labs you will need to create an account.
+
+1.	Go to the dropdown menu and navigate to **My Company**. Select **Account**
+
+![User Menu Company Account](_media/clientPlatform/companyAccountPage/User-menu-account.png)
+
 ---
+## Feature Breakdown
 
 ### Suggestions – Next Steps
 
@@ -256,9 +266,45 @@ partner network.
 
 #### *View My Matches*
 
+The **View My Matches** tab displays a curated list of technology professionals and resources that match your saved search criteria. This page helps you stay up to date with available talent that aligns with your organization’s specific hiring or partnership needs—without having to perform the same search repeatedly.
+
+This feature is particularly useful for companies with ongoing or long-term hiring needs, enabling them to monitor talent availability passively and act quickly when ideal candidates appear on the platform.
+
+**How It Works:**  
+- You start by creating and saving a **custom filter set** on the **View My Matches** tab. Choose the desired rate range, resource type, vendors, locations, technical skills and positions.
+
+![Match filter](_media/clientPlatform/companyAccountPage/match%20filter.png)
+
+- Once saved, any professionals or resources who meet the criteria will automatically appear in your **View My Matches** tab.
+- Each time a new candidate enters the system or updates their profile and matches your saved filters, they’ll be added to this list automatically.
+- You can choose to receive notifications by email by providing an email address and choosing a delivery frequency that's right for you. 
+
+![Notification Settings](_media/clientPlatform/companyAccountPage/notification%20setting.png)
+
+Notifications can be sent via email or viewed in your Spryte dashboard, ensuring you never miss an opportunity to connect with top talent that fits your team’s needs.
 ---
 
 #### *View the Available Spryte Roster*
+ 
+The "View the Available Spryte Roster" page allows companies to browse available technology professionals on the Spryte platform. These are vetted individuals and teams that can be brought in to support your projects. This roster provides transparency into available resources and helps companies make informed staffing decisions quickly.
+
+You can use this page to browse the full list of resources on Spryte and assess candidate qualifications, locations, experience levels, and availability.
+
+**Search Filters:**  
+The roster can be filtered using several parameters to refine the list of candidates:
+
+- **Resource Type**: Choose between interns and experienced professionals based on your project needs.
+- **Availability**: Choose between showing only resources available now or all resources.
+- **Video Profiles**: Toggle to only see resources with video profiles.
+- **Added On**: Filter search results by when the resource became available on Spryte.
+- **Last Updated**: Filter by time of last profile update.
+- **Rates**: Filter resources by desired rate range.
+- **Rating**: Filter by resource ratings.
+- **Technical Skills**: Filter by specific skill sets or tech stacks (e.g., React, Node.js, Python).
+- **Location**: Filter by country or region the resource is based in.
+- **Positions**: Filter by job function and experience level, such as Senior Frontend Developer, Junior Backend Developer, Product Manager, QA, etc.
+
+This tool is especially useful for companies looking to build flexible teams, fill gaps in current projects, or connect with top talent before they're claimed by others on the platform.
 
 ---
 
@@ -349,48 +395,13 @@ Your Account Manager is your primary point of contact for account configuration,
 Your Success Manager can help you launch a new project with Spryte and answer any questions related to ongoing projects.
 
 ---
+<br>
 
-### How to access your Company Account Page
-
-Please log into the dashboard. If you are new to Spryte Labs you will need to create an account.
-
-1.	Go to the dropdown menu and navigate to **My Company**. Select **Account**
-
-![User Menu Company Account](_media/clientPlatform/companyAccountPage/User-menu-account.png)
-
----
-
-## Company Profile Page
+# Company Profile Page
 Spryte’s Company Profile Pages are curated landing pages that showcase your company on our platform. Each page functions as a digital portfolio for potential clients and appllicants to learn about your company's leadership, core products, and tech stack. Your profile also highlights your expertise and industry standing through awards, sector rankings, and Spryte Spotlight features.
 
-### Feature Breakdown
+## How to access your Company Profile Page
 
-#### Company Overview: 
-Displays your company name, logo, website, description, tags, and any earned Spryte awards (refer to [Spryte Spotlight](https://sprytelabs.com/spotlight) for more information). 
-
-#### Specialty Sector Ranking:
-Showcase how your company ranks within your primary sector and subsectors. Rankings are derived from a combination of third-party and public data, company provided information and market expert analysis.
-
-Refer to [Spryte Index Methodology & Data](https://firebasestorage.googleapis.com/v0/b/spryte-p.appspot.com/o/Assets%2FDocuments%2FSpryte%20Index%20Methodology%20%26%20Data%20v2.pdf?alt=media&token=2d1bb4d8-5a78-4e35-8b30-f0494bf7e16a) for more information on the Spryte Index.
-
-#### Technology Products We Make:
-Highlight key products and services your company offers. Choose from Spryte’s extensive product library—or work with your Account Manager to add custom entries that reflect your unique offerings.
-
-#### Technology Products We Use
-Give prospective clients and collaborators a clear picture of your tech stack by listing the software, frameworks, platforms, and services your team actively uses. This can help them understand your team's strengths and compatibility with their own tech stack.
-You can select from Spryte’s existing technology catalog or contact your Account Manager for custom entries. 
-
-#### Open Positions
-Showcase current job openings to signal company growth and attract qualified talent. Open positions are pulled from online job boards, company websites, or can be added manually through your Spryte partner dashboard.
-
-#### Open Candidature (Under Development)
-The Open Candidature feature allows interested professionals to submit their profiles and resumes even when no open roles are listed. This is ideal for companies building talent pipelines or seeking specialized skillsets on a rolling basis.
-Candidates can browse your company profile and submit their interest through a dedicated form, ensuring you're not missing out on potential contributors just because a formal role hasn’t been posted yet.
-
-#### Start an Internship (Under Development)
-This feature enables recent graduates and early-career professionals to express their interest in interning with your company, even if no internships are currently posted. It’s a great way to engage emerging talent who are enthusiastic about your work and want to contribute to your team.
-
-### How to access your Company Profile Page
 Please log into the dashboard. If you are new to Spryte Labs you will need to create an account.
 
 1.	Go to the dropdown menu and navigate to **My Company**. Select **Profile**
@@ -409,6 +420,35 @@ Please log into the dashboard. If you are new to Spryte Labs you will need to cr
 ![Edit Tags](_media/clientPlatform/companyProfilePage/Edit-tags.png)
 
 ![Edit Product and Tech Stack](_media/clientPlatform/companyProfilePage/Edit-profile-page.png)
+
+
+## Feature Breakdown
+
+### Company Overview: 
+Displays your company name, logo, website, description, tags, and any earned Spryte awards (refer to [Spryte Spotlight](https://sprytelabs.com/spotlight) for more information). 
+
+### Specialty Sector Ranking:
+Showcase how your company ranks within your primary sector and subsectors. Rankings are derived from a combination of third-party and public data, company provided information and market expert analysis.
+
+Refer to [Spryte Index Methodology & Data](https://firebasestorage.googleapis.com/v0/b/spryte-p.appspot.com/o/Assets%2FDocuments%2FSpryte%20Index%20Methodology%20%26%20Data%20v2.pdf?alt=media&token=2d1bb4d8-5a78-4e35-8b30-f0494bf7e16a) for more information on the Spryte Index.
+
+### Technology Products We Make:
+Highlight key products and services your company offers. Choose from Spryte’s extensive product library—or work with your Account Manager to add custom entries that reflect your unique offerings.
+
+### Technology Products We Use
+Give prospective clients and collaborators a clear picture of your tech stack by listing the software, frameworks, platforms, and services your team actively uses. This can help them understand your team's strengths and compatibility with their own tech stack.
+You can select from Spryte’s existing technology catalog or contact your Account Manager for custom entries. 
+
+### Open Positions
+Showcase current job openings to signal company growth and attract qualified talent. Open positions are pulled from online job boards, company websites, or can be added manually through your Spryte partner dashboard.
+
+### Open Candidature
+The Open Candidature feature allows interested professionals to submit their profiles and resumes even when no open roles are listed. This is ideal for companies building talent pipelines or seeking specialized skillsets on a rolling basis.
+Candidates can browse your company profile and submit their interest through a dedicated form, ensuring you're not missing out on potential contributors just because a formal role hasn’t been posted yet.
+
+### Start an Internship
+This feature enables recent graduates and early-career professionals to express their interest in interning with your company, even if no internships are currently posted. It’s a great way to engage emerging talent who are enthusiastic about your work and want to contribute to your team.
+
 
 ## Match 
 The match page allows you to set your company match settings. Once set, you'll receive 6 AI Matched relevant profiles every week, month or whichever frequency you've set under the Notification Settings.
