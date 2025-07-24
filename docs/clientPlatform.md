@@ -259,8 +259,9 @@ This page allows your company to declare and verify key details about your techn
 
 #### *Manage my Requirements*
 
-The Manage My Requirements tool allows you to quickly and securely share what roles, expertise, and support you need to move your project forward. In just six guided steps, you can define open technical roles, set expectations, and allow Spryte to match you with vetted talent from its global 
-partner network.
+Spryte’s Requirements feature allows companies to define and manage their hiring or project needs through a guided, multi-step workflow. Whether staffing individual roles or launching a fully managed project, users can specify positions, budgets, locations, required skills, and more. The system then intelligently matches qualified candidates, streamlines evaluations, and supports flexible team configurations — all within a centralized interface.
+
+For more information on Requirements, click [here](requirements.md)
 
 ---
 
@@ -281,7 +282,6 @@ This feature is particularly useful for companies with ongoing or long-term hiri
 
 ![Notification Settings](_media/clientPlatform/companyAccountPage/notification%20setting.png)
 
-Notifications can be sent via email or viewed in your Spryte dashboard, ensuring you never miss an opportunity to connect with top talent that fits your team’s needs.
 ---
 
 #### *View the Available Spryte Roster*
