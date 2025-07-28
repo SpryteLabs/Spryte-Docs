@@ -10,6 +10,7 @@
   * [Personal Account Page](clientPlatform.md#your-personal-account-page-options)
   * [Company Account Page](clientPlatform.md#your-company-account-options)
   * [Company Profile Page](clientPlatform.md#company-profile-page)
+* [Requirements](requirements.md)
 * [Developer Platform](developerPlatform.md)
 * [Features](features.md)
   * [Custom E-Mail](features.md#custom-e-mail)
