@@ -60,10 +60,12 @@ Define how soon your project needs to start:
 
 ### Step 5: Set Team Location
 
-Select where your team will be based:
-- Remote – Candidates can work from anywhere.
-- Hybrid – A mix of in-office and remote work.
-- On-site – Candidates must work in your designated location.
+Select where your team will be based. Choose from:
+- Global
+- Asia
+- Americas
+- Europe
+- Local
 
 This setting influences candidate matching based on availability and commute preferences.
 
